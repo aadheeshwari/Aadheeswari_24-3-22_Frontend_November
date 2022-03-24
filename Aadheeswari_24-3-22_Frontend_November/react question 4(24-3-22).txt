@@ -1,0 +1,7 @@
+4)Explain about render in updating phase?
+
+
+     => The render() method is of course called when a component gets updated, it has to re-render the HTML to the DOM, 
+with the new changes.
+
+     => The example below has a button that changes the favorite color to blue
